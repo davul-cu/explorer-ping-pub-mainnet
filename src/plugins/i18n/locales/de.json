@@ -23,12 +23,12 @@
     "links": "Links"
   },
   "pages": {
-    "title": "ITRocket Explorer",
+    "title": "DVLnode Explorer",
     "title_all": "404",
     "tag": "Beta",
     "tag_all": "Seite nicht gefunden",
-    "slogan": "ITRocket Explorer ist nicht nur ein Explorer, sondern auch eine Wallet und mehr ... 🛠",
-    "description": "Cosmos-Ökosystem-Blockchains 🚀",
+    "slogan": "DVLnode Explorer ist nicht nur ein Explorer, sondern auch eine Wallet und mehr ... 🛠",
+    "description": "Entdecken Sie die Welt der Blockchain",
     "search_placeholder": "Suche Chain",
     "description_all": "Wir konnten die gesuchte Seite nicht finden.",
     "out_of_sync": "Der letzte Block wurde erstellt am ",
