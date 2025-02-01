@@ -162,8 +162,7 @@ export const useBlockchain = defineStore('blockchain', {
       if (end) {
         return JSON.parse(end);
       } else {
-        // mainnet yerine testnet endpoint'lerini kullan
-        const all = this.current?.endpoints?.testnet;
+        const all = this.current?.endpoints?.rest;
         if (all) {
           const rn = Math.random();
           const endpoint = all[Math.floor(rn * all.length)];
