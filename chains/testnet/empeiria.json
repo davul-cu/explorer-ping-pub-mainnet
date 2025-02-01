@@ -1,5 +1,5 @@
 {
-    "chain_name": "empeiria",
+    "chain_name": "empeiria testnet",
     "api": ["https://empeiria-testnet-api.itrocket.net"],
     "rpc": ["https://empeiria-testnet-rpc.itrocket.net"],
 	"sdk_version": "v0.47.9",

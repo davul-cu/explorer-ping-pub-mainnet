@@ -1,5 +1,5 @@
 {
-    "chain_name": "zenrock",
+    "chain_name": "zenrock gardia-3",
     "coingecko": "",
     "api": ["https://zenrock-testnet-api.itrocket.net"],
     "rpc": ["https://zenrock-testnet-rpc.itrocket.net"],
