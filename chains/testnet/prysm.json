@@ -4,7 +4,7 @@
     "api": ["https://prysm-testnet-api.dvlnode.com"],
     "rpc": ["https://prysm-testnet-rpc.dvlnode.com"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.0",
+    "sdk_version": "0.50.9",
     "coin_type": "60",
     "min_tx_fee": "800",
     "addr_prefix": "prysm",
